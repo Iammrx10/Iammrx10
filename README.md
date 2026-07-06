@@ -29,9 +29,9 @@ Security Researcher • SOC Analyst • Penetration Tester • Threat Intelligen
 ## About Me
 ![Profile views](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blue)
 
-I'm a cybersecurity professional focused on **security research, SOC operations, threat intelligence, and penetration testing**.
+I'm a Cybersecurity professional focused on **AI Security Researcher & Bug Hunting, SOC operations, Threat intelligence, Linux administrator and Penetration testing**.
 
-I'm a big fan of **Linux, Windows, and open-source technologies**. I enjoy building hands-on cybersecurity labs, analyzing logs, exploring vulnerabilities, and 🔐 *breaking systems to understand them — securing them to protect others.*
+I'm a big fan of **Linux, Windows, and Open-source technologies**. I enjoy building hands-on cybersecurity labs, analyzing logs, exploring vulnerabilities, and 🔐 *breaking systems to understand them — securing them to protect others.*
 
 ⚡ *Learn → Build → Break → Analyze → Repeat*
 
