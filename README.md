@@ -37,7 +37,7 @@ I'm a big fan of **Linux, Windows, and Open-source technologies**. I enjoy build
 
 Outside of security research, I enjoy experimenting with new tools, learning emerging technologies, contributing to open source, and sharing knowledge to help others understand cybersecurity.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Security+Researcher;SOC+Analyst;Penetration+Tester;Threat+Intelligence;Ethical+Hacker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Security+Researcher;+Bug+Bounty;SOC+Analyst;Penetration+Tester;Threat+Intelligence;Ethical+Hacker)](https://git.io/typing-svg)
 
 ## 🧰 Security Tools
 
